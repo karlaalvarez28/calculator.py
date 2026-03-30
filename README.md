@@ -24,3 +24,6 @@ To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
     [https://github.com/karlaalvarez28/calculator.py.git]
+   
+## Screenshot
+<img width="398" height="558" alt="image" src="https://github.com/user-attachments/assets/adb71833-7975-4954-8912-2a69ddb006de" />
